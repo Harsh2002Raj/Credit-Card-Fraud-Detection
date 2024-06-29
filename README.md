@@ -1,6 +1,3 @@
-Credit Card Fraud Detection Project
-Author: Harsh Raj
-Email: harsh651106@gmail.com
 Objective:
 The goal of this project is to predict fraudulent transactions from a given dataset. Given the imbalanced nature of the data, standard metrics for evaluating classification algorithms, such as accuracy, are insufficient. The focus is on Sensitivity (true positive rate) and Specificity (true negative rate) to find an optimal trade-off, prioritizing high sensitivity to ensure fraudulent transactions are detected with high probability.
 
